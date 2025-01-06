@@ -1,0 +1,10 @@
+[core]
+  editor = nvim
+  autocrlf = input # for macos
+
+[init]
+  defaultBranch = main
+
+[user]
+  name = "Diego Lopez"
+  email = "manager@agenciapantera.com"
